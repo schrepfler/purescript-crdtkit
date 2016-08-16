@@ -3,4 +3,4 @@ Purescript base implementation of CRDT data structures, will try to keep behind 
 
 Currently implementing
 
- [] GCounter (only increment so far, needs merge)
+ - [ ]  GCounter (only increment so far, needs merge)
